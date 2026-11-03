@@ -63,3 +63,7 @@ def calculate_total(price, quantity, has_discount: bool) -> int: #Указыва
 total = calculate_total(price = 100, quantity = 2, has_discount = True)
 print(total)
 
+name: str = "Kirill"
+
+print(name)
+
