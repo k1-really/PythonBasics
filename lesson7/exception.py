@@ -11,7 +11,7 @@ except ValueError:
 
 try:
     number = int(input("Enter a number: "))
-    print(10/ number)
+    print(10 / number)
 except Exception as error:
     print("Division by zero", error)
 else:
